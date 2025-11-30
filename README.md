@@ -1,2 +1,2 @@
-# blog
+# BLOG
 Complete Blogging System with Django
